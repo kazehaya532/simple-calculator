@@ -1,7 +1,3 @@
-Berikut adalah alur kerja umum untuk program kalkulator sederhana, seperti yang mungkin ditemukan di repositori GitHub yang Anda berikan:
-
----
-
 ## Alur Kerja Program Kalkulator Sederhana
 
 Program kalkulator ini beroperasi melalui interaksi pengguna yang langsung dan intuitif, memproses input untuk menghasilkan hasil perhitungan.
