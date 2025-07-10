@@ -16,6 +16,4 @@ Program kalkulator ini beroperasi melalui interaksi pengguna yang langsung dan i
 
 * **Fungsi Kontrol Input:** Program menyediakan fungsi `C` (Clear) untuk menghapus seluruh masukan dan `←` (Backspace) untuk menghapus karakter terakhir yang dimasukkan, memungkinkan pengguna untuk mengoreksi kesalahan dengan mudah.
 
-Alur ini memungkinkan pengguna untuk melakukan perhitungan dasar secara efisien dengan antarmuka yang bersih dan responsif.
-
 https://kazehaya532.github.io/simple-calculator/
